@@ -1,9 +1,9 @@
 class Lpu < Formula
   desc "LPU - Remote Terminal Management"
   homepage "https://github.com/lpu-software/rtm"
-  url "https://github.com/lpu-software/rtm/releases/download/v1.0.33/lpu-mac.tar.gz"
-  sha256 "263f6cac074e1b971c9ac818d34ee980536e0f02dd88d9ee43b1af132c53f1c4"
-  version "1.0.33"
+  url "https://github.com/lpu-software/rtm/releases/download/v1.0.34/lpu-mac.tar.gz"
+  sha256 "133c519d799f6e309f7466f3482b763322a547c987a7df16279848bbe735520b"
+  version "1.0.34"
 
   def install
     # Install the binary
